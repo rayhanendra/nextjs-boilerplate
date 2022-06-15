@@ -1,0 +1,9 @@
+# .estlintignore file
+.next
+dist
+node_modules/
+
+next-env.d.ts
+yarn.lock
+package-lock.json
+public
